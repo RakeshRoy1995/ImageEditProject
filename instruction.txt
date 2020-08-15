@@ -1,0 +1,9 @@
+imageupload.php
+
+//customize only for the png image
+
+//customize only for the JPG/JPEG image
+
+in there i need only 
+//crop image code ( search this sentence)
+
